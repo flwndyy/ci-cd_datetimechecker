@@ -1,0 +1,6 @@
+bin/
+obj/
+.vs/
+allure-results/
+allure-history/
+TestResults/
